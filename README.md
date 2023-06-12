@@ -1,1 +1,2 @@
-# Computer-Animation-Project
+# Computer Animation
+ 3D Computer Animation Class Project
